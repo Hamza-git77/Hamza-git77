@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Hamza
+## 👋 Hi, I'm Hamza EL HASRI
 
 IT Specialist focused on **Cybersecurity, Networks, and IT Infrastructure**.  
 I enjoy building secure environments, troubleshooting systems, and improving network reliability.
