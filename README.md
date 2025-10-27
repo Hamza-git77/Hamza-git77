@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Hamza
 
-<!--
-**Hamza-git77/Hamza-git77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Specialist focused on **Cybersecurity, Networks, and IT Infrastructure**.  
+I enjoy building secure environments, troubleshooting systems, and improving network reliability.
 
-Here are some ideas to get you started:
+### 🔹 Interests
+Cybersecurity • Networking • IT Infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Currently Learning
+pfSense, IDS/IPS, and Network Security Labs
+
+### 📫 Contact
+📧 elhasrihamza@gmail.com
